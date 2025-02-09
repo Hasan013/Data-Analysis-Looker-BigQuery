@@ -2,7 +2,7 @@
 # Marketing Analytics Project
 
 ## Interactive Dashboard
-[Click here to interect with the Dashboard](https://lookerstudio.google.com/reporting/34124124-8b1f-48e7-b6c3-379fd1ffe369)
+[Click here to interact with the Dashboard](https://lookerstudio.google.com/reporting/34124124-8b1f-48e7-b6c3-379fd1ffe369)
 
 ---
 
