@@ -1,6 +1,7 @@
 # Product Analytics
 
-## Interactive Dashboard: [Insert Link]
+## Interactive Dashboard
+[Click here to interact with the Dashboard](https://lookerstudio.google.com/reporting/5d087d6f-812a-4665-a1d7-3c1afbbb8ab7)
 
 Excited to share my recent **Product Analytics** project, where I analyzed **user engagement and feature adoption** for a mobile app using **Google BigQuery** for SQL-based analysis and **Looker Studio** for interactive visualizations. The goal was to uncover insights to improve **user retention, optimize features and enhance product experience**.
 
