@@ -1,4 +1,4 @@
-# Product Analytics
+# Product Analytics Project
 
 ## Interactive Dashboard
 [Click here to interact with the Dashboard](https://lookerstudio.google.com/reporting/5d087d6f-812a-4665-a1d7-3c1afbbb8ab7)
@@ -62,3 +62,7 @@ This project helped me strengthen my expertise in:
 - **Developing data-driven strategies** for business growth
 
 I would love to hear your thoughts! Let’s connect and discuss **data-driven product strategies**. 
+
+---
+
+#### [Click here to explore the Dashboard](https://lookerstudio.google.com/reporting/5d087d6f-812a-4665-a1d7-3c1afbbb8ab7)
