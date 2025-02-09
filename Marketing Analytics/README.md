@@ -1,3 +1,4 @@
+![Marketing Analytics](https://github.com/Hasan013/Data-Analysis-Looker-Studio-BigQuery/blob/main/Marketing%20Analytics/Dashboard/Marketing%20Analytics.PNG)
 # Marketing Analytics Project
 
 ## Interactive Dashboard
