@@ -93,4 +93,5 @@ The insights here can help teams to:
 If you are a founder or product/growth lead looking to improve retention, feature usage or user experience, I would love to chat.
 
 📩 **Email:** [hraza9327@gmail.com](mailto:hraza9327@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)   
+🌐 **Portfolio:** [https://hasan013.github.io/](https://hasan013.github.io/)
