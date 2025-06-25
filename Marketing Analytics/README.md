@@ -89,6 +89,6 @@ This project demonstrates the kind of insight that can help e-commerce teams:
 I help e-commerce brands uncover data insights that drive real growth.  
 If this project resonates with your needs:
 
-📩 **Email:** [hraza9327@gmail.com](mailto:hraza9327@gmail.com)
-
-🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)
+📩 **Email:** [hraza9327@gmail.com](mailto:hraza9327@gmail.com)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)  
+🌐 **Portfolio:** [https://hasan013.github.io/](https://hasan013.github.io/)
