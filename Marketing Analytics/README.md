@@ -2,8 +2,6 @@
 
 ![Marketing Analytics](https://github.com/Hasan013/Data-Analysis-Looker-BigQuery/blob/main/Marketing%20Analytics/Dashboard/Marketing%20Analytics.png)
 
-### 🔗 [👉 Click to Explore the Live Dashboard](https://lookerstudio.google.com/reporting/34124124-8b1f-48e7-b6c3-379fd1ffe369)
-
 ---
 
 ## 🧠 Project Built for Founders, Marketers & Growth Leads
@@ -94,8 +92,3 @@ If this project resonates with your needs:
 📩 **Email:** [hraza9327@gmail.com](mailto:hraza9327@gmail.com)
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)
-
----
-
-### 🚀 Want to see the live dashboard?
-👉 [Click Here to Explore](https://lookerstudio.google.com/reporting/34124124-8b1f-48e7-b6c3-379fd1ffe369)
